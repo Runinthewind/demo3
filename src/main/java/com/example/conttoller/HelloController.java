@@ -9,4 +9,5 @@ public class HelloController {
     public String indfo(){
         return "hello SPringBoot Info";
     }
+    //这个是自定义控制器
 }
